@@ -1,0 +1,6 @@
+{
+    "imports": {
+        "project/": "./",
+        "std/": "https://deno.land/std@0.99.0/"
+    }
+}
