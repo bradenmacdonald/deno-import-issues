@@ -1,1 +1,1 @@
-export * from "project/other-folder/tests2.ts";
+export * from "std/testing/asserts.ts";
